@@ -1,2 +1,0 @@
-# setup
-useful tips, tricks and apps for setting up on a Windows OS machine
